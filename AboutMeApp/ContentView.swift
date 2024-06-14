@@ -3,7 +3,7 @@
 //  AboutMeApp
 //
 //  Created by Scholar on 6/6/24.
-//
+//first real app!
 
 import SwiftUI
 
